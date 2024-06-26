@@ -1,2 +1,2 @@
-# jkvince.github.io
-Blog
+# blog title
+Text
